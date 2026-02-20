@@ -1,0 +1,2 @@
+# smth
+study stuff
