@@ -3,7 +3,7 @@ class Employee:
         self.__name = name
         self.__hours=hours
         if hourly_rate<0:
-            raise ValueError("Некорректный возраст")
+            raise ValueError
         else:
             self.__hourly_rate=hourly_rate
     @property
